@@ -1,0 +1,37 @@
+header{
+  display: flex;
+  height: 70px;
+  justify-content: space-between;
+  background-color: antiquewhite;
+  align-items: center;
+  padding: 10px;
+}
+.logo{
+  display: flex;
+  align-items: center;
+}
+.logo img{
+  height: 50px;
+  margin-right: 10px;
+  
+}
+section article .Contenido {
+float: left;
+    margin: 10px 10px 5px 0px;
+}
+section .contenedor{
+  padding-left: 80px;
+  padding-right: 80px;
+  font-size: 19px;
+  justify-content: center;
+ 
+}
+section .contenedor p{
+  text-align: justify;
+}
+section .contenedor em b{
+  text-align: right;
+}
+
+
+
